@@ -5,17 +5,17 @@
 ## Prerequisites
 - Node.js (LTS) and npm
 - Yarn installed globally:
-  npm install -g yarn
+  `npm install -g yarn`
 
 ## Install
-yarn
+`yarn`
 
 ## Start Development
-yarn start
+`yarn start`
 
 Local endpoints:
-http://127.0.0.1:3000
-http://localhost:3000
+`http://127.0.0.1:3000`
+`http://localhost:3000`
 
 ## Environment Binding (Required Diagnostic Step)
 
